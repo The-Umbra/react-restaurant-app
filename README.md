@@ -1,1 +1,1 @@
-# react-restaurant-app
+# Restaurant Landing Page
